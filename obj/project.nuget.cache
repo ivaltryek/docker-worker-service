@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wkYLZrPuulJ5VPs8Uixn/Nnwqh0/qyoEoujaai/Jz3syhecMpU9/s/ATX2Via9xli9VbA23URouz9lKo8z3QWQ==",
+  "dgSpecHash": "aQ0Nqq+IGEMV7fXipqjS3mQMmNYhCB5cQsWhvkdzPy7+kjPr7hkSGYPxuL8gxs6stHx2FO6jmcqhrTdqHTllwg==",
   "success": true,
   "projectFilePath": "/home/mj/docker-worker-service/docker-worker-service.csproj",
   "expectedPackageFiles": [
+    "/home/mj/.nuget/packages/coravel/4.0.2/coravel.4.0.2.nupkg.sha512",
+    "/home/mj/.nuget/packages/microsoft.extensions.caching.abstractions/2.1.1/microsoft.extensions.caching.abstractions.2.1.1.nupkg.sha512",
+    "/home/mj/.nuget/packages/microsoft.extensions.caching.memory/2.1.1/microsoft.extensions.caching.memory.2.1.1.nupkg.sha512",
     "/home/mj/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "/home/mj/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "/home/mj/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0/microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
