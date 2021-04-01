@@ -12,6 +12,7 @@ namespace docker_worker_service
         public Task Invoke()
         {
             File.AppendAllText("logs.txt", "This is called at: " + DateTime.Now.ToString() + Environment.NewLine);
+            Console.WriteLine("This is called at: " + DateTime.Now.ToString() + Environment.NewLine);
             return Task.CompletedTask;
         }
     }
